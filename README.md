@@ -27,6 +27,6 @@ Tasks to be delegated:
 - Manipulating data and Performing EDA  
 - An analysis of their content categories that highlights the top 5 categories with the 
 largest aggregate popularity
--Presentation file to present to clients
+- Presentation file to present to clients
 
 ## More about this project and a steps taken can be found on this article below :
